@@ -25,8 +25,7 @@ Este portfólio contém alguns projetos realizados durante os estudos em cursos 
 
   <div id="badges">
   <a href = "https://linkedin.com.br/in/felipetnsantos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <!-- 
   </a>
