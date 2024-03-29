@@ -1,5 +1,6 @@
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **felipetnsantos/felipetnsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, seja bem vindo!
+### Olá, seja bem vindo!
 :mortar_board: Tecnólogo em Automação Industrial (IFSP) <br/>
 :mortar_board: Engenheiro de Controle e Automação (IFSP) <br/>
 :mortar_board: Especialista em Ciência de Dados (UTFPR) <br/>
