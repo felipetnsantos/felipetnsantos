@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 :mortar_board: Tecnólogo em Automação Industrial (IFSP) <br/>
 :mortar_board: Engenheiro de Controle e Automação (IFSP) <br/>
 :mortar_board: Especialista em Ciência de Dados (UTFPR) <br/>
-Este portfólio contém alguns projetos realizados durante os estudos em cursos de formação, pós-graduação e projetos pessoais.
+Este portfólio contém alguns projetos realizados durante os estudos em cursos de formação, pós-graduação e projetos pessoais. <br/>
+
+E-mail: felipe.tnsantos@gmail.com
 
 
   <div id="badges">
